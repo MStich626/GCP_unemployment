@@ -110,4 +110,3 @@ This dashboard shows unemployment data across European countries. Users can filt
 └── README.md
 
 ```
-n: Leveraging BigQuery Views instead of doing complex transformations inside Looker Studio drastically improved dashboard loading performance and consistency.
