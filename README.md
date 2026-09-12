@@ -2,7 +2,7 @@
 
 An end-to-end, automated data engineering project that fetches European unemployment rate metrics from the **Eurostat API**, loads raw data into **Google Cloud Storage (GCS)**, transforms it within **Google BigQuery**, and visualizes the results on an interactive dashboard in **Looker Studio**.
 
----
+--- 
 
 ## Architecture Overview
 ```text
